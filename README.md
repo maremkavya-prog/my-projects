@@ -12,7 +12,7 @@ A modern boutique website.
 
 A React-based digital queue management system.
 
-🌐 [Live Website](https://digital-queue-pi.vercel.app/)
+🌐 [Live Website](https://digital-queue-d9uv3rgfw-maremkavya-prog.vercel.app)
 
 ---
 
